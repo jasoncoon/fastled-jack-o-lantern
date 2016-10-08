@@ -2,7 +2,7 @@
 
 [Video](https://youtu.be/eBLh7yvzN-Y):
 
-[![Video](http://img.youtube.com/vi/TUthY06g6I0/0.jpg)](https://youtu.be/TUthY06g6I0)
+[![Video](https://github.com/jasoncoon/fastled-jack-o-lantern/raw/master/fastled-jack-o-lantern-youtube.png)](https://youtu.be/TUthY06g6I0)
 
 *Materials*:
 
